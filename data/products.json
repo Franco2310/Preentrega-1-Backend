@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "Lusail Burger",
+      "description": "Incluye: cebolla fresca y cebolla frita crujiente, tomate fresco en rodajas, pepinillos agridulces, salsas mayonesa, sal y pimienta, lechuga, queso cheddar, panes y carne de ternera",
+      "code": "F123",
+      "price": 5000,
+      "status": true,
+      "stock": 50,
+      "category": "Categoría A",
+      "thumbnails": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqIvY_EddgWVLKNZD3S-xTjijRkfogKFxFkA&s"]
+    },
+    {
+      "id": 2,
+      "title": "Miami Burger",
+      "description": "Incluye: Mayonesa, cheddar, lechuga, tomate, panceta. panes y carne de ternera",
+      "code": "F456",
+      "price": 4000,
+      "status": true,
+      "stock": 50,
+      "category": "Categoría B",
+      "thumbnails": ["https://www.circuitogastronomico.com/wp-content/uploads/2017/09/Clubhouse.png"]
+    }
+]
